@@ -28,3 +28,26 @@ About the Case Study
 ![image](https://github.com/user-attachments/assets/d2aeb1bf-3b92-48d3-b0d1-f4d7c134f6be)
 
 ![image](https://github.com/user-attachments/assets/178378f7-58e5-414d-bdf9-435d37a0e9ef)
+
+
+Key Findings
+
+Launch Timing Impact: Evidence suggests that launch timing could be related to the drop in sales after two weeks, though causality cannot be confirmed.
+
+Sales Price Correlation: Initial sales rates showed a correlation with price reductions—lower prices led to higher sales in the short term. However, overall sales in the first three weeks were not directly correlated to the sales price.
+
+Marketing Influence: Increased email opening rates and a higher number of marketing emails sent correlated with improved initial sales performance.
+
+Comparative Product Performance: The Bat Scooter outperformed the Lemon and Bat Limited scooters in unit sales during the first three weeks.
+
+Recommendations for Further Testing
+
+To confirm these findings, in-field testing (such as A/B testing) is required. Suggested experiments include:
+
+Launching future scooter products at different times in similar markets to assess the impact of launch timing.
+
+Testing different pricing strategies in equivalent regions to observe sales variations.
+
+Running distinct email marketing campaigns in comparable regions to measure effectiveness.
+
+These tests will provide actionable insights to optimize future product launches and marketing strategies.
